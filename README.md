@@ -17,7 +17,7 @@
 ## 3.IT 경험
 
 | |과목|기간|개요|
-|1|git|2022년 3월|git 사용법|
+|1|[git](https://sunnny10.github.io/subject/)|2022년 3월|git 사용법|
 
 
 #관련 링크
