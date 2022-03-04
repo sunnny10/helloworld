@@ -2,6 +2,8 @@
 
 ## 1.본인소개
 
+<img src="ㅎㅇ.jpg/><br>
+
 |이름|정선|
 |skill set|Frontend : HTML, CSS, JavaScript|
 ||Backend : Java, Spring, Oracle|
