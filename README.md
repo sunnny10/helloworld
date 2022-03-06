@@ -1,5 +1,6 @@
 # 정선의 github 홈페이지
 
+
 ## 1.본인소개
 
 <img src="ㅎㅇ.jpg"/><br>
@@ -21,7 +22,8 @@
 |1|[git](https://sunnny10.github.io/subject/)|2022년 3월|git 사용법|
 
 
-#관련 링크
 
-[깃허브 링크](https://github.com/sunnny10)<br>
+## 관련 링크
+
+[나의 깃허브](https://github.com/sunnny10)<br>
 [한국폴리텍대학 광명융합기술교육원 데이터분석과 github](https://koposoftware.github.io/2022/)
