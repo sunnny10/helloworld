@@ -21,7 +21,7 @@
 * 과목 클릭시 페이지로 이동
 
 | |과목|기간|개요|
-|1|[git](https://sunnny10.github.io/subject/)|2022년 3월|git 사용법|
+|1|[git](https://sunnny10.github.io/subject_git/)|2022년 3월|git 사용법|
 
 
 
